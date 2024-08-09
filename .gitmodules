@@ -1,0 +1,6 @@
+[submodule "aana_summarize_video"]
+	path = aana_summarize_video
+	url = https://github.com/mobiusml/aana_summarize_video.git
+[submodule "aana_chat_with_video"]
+	path = aana_chat_with_video
+	url = https://github.com/mobiusml/aana_chat_with_video.git
