@@ -24,3 +24,6 @@ To explore these examples, clone this repository with the `--recurse-submodules`
 
 ```bash
 git clone --recurse-submodules https://github.com/mobiusml/aana_examples.git
+```
+
+You can also clone individual example repositories by following the links provided above.
